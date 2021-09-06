@@ -6,5 +6,5 @@ Laden is a powerful server written in js, and angular.js
   * 1.0.2
   
   Replace in server 
-* runner: C:\Users\----\Desktop\ladenJS\v101stable\ladenjs\ws\index.js,
+* runner: node C:\Users\----\Desktop\v102\ladenjs\system\main.js,
 * server.bat: C:\Users\----\Desktop\ladenJS\v101stable\ladenjs\runner.js

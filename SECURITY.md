@@ -4,7 +4,7 @@
 
 Certain versions will go out of date soon
 
-| Version | Supported          | deprecation       | 
+| Version | Supported          | Deprecation       | 
 | ------- | ------------------ |------------------ |
 | 1.0.1 - | :white_check_mark: |  In-Progress      | 
 | 1.0.1S  | :white_check_mark: |                   |          

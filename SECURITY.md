@@ -1,5 +1,7 @@
 # Security Policy
 
+  * No hacking or editing code without owners permission!
+
 ## Supported Versions
 
 Certain versions will go out of date soon

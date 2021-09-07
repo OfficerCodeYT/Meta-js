@@ -1,0 +1,1 @@
+node C:\Users\isaiah\Desktop\ladenJS\v1012\ladenjs\system\main.js -l --ServerStatus

@@ -2,6 +2,8 @@
 Laden is a powerful server written in js, and angular.js
 * 1.0.1 - is no longer supported
   * 1.0.1 stable
+  * 1.0.1-2 
+  
 * 1.0.2
   * 1.0.2 Stable
  
@@ -12,3 +14,4 @@ Replace in server
 # Other Notes
 
 1.0.1 - is no longer supported
+1.0.1 Stable will be no longer supported on 9/15/2021

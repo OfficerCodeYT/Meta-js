@@ -1,6 +1,7 @@
 # Security Policy
 
   * No hacking or editing code without owners permission!
+  * No adding non lan- files to the utils folder
 
 ## Supported Versions
 

@@ -1,0 +1,12 @@
+{
+  "name": "v103",
+  "version": "1.0.0",
+  "description": "* Added WS server in replace of http server",
+  "main": "index.js",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -13,5 +13,5 @@ Replace in server
 
 # Other Notes
 
-1.0.1 - is no longer supported
-1.0.1 Stable will be no longer supported on 9/15/2021
+* 1.0.1 - is no longer supported
+* 1.0.1 Stable will be no longer supported on 9/15/2021

@@ -14,6 +14,7 @@ Certain versions will go out of date soon
 | 1.0.1-2  | :white_check_mark: |                    | 
 | 1.0.2  | :white_check_mark: |                    | 
 | 1.0.2 S | :white_check_mark: |                    | 
+| 1.0.3  | :white_check_mark: |                    | 
 
 
 ## Reporting a Vulnerability

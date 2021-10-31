@@ -1,1 +1,0 @@
-node C:\Users\isaiah\Desktop\ladenJS\v102stable\ladenjs\system\main.js
